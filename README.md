@@ -11,7 +11,7 @@ add content to any 5 places around your area.
 ### step3:
 complete the index work.
 ### excute:
-excute the program.
+excute the code.
 ## Code:
 ```html
 <!DOCTYPE html>
