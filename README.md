@@ -5,7 +5,7 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-create yout area location map.
+create your area location map.
 ### Step 2:
 add content to any 5 places around your area.
 ### step3:
@@ -43,8 +43,8 @@ excute the program.
 ![kingsschool](kingsschool.JPG)
 ## SALTNPEPPER:
 ![saltnpepper](saltnpepper.JPG)
-## SATYAAMMA TEMPLE:
-![satyaammatemple](satyaammatemple.JPG)
+## SATYAMMA TEMPLE:
+![satyammatemple](satyammatemple.JPG)
 ## SRIRAMANENI VILLA:
 ![sriramanenivilla](sriramanenivilla.JPG)
 
