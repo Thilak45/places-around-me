@@ -49,4 +49,4 @@ excute the program.
 ![sriramanenivilla](sriramanenivilla.JPG)
 
 ## Result:
-PROGRAM HAS EXCUTED SUCCESSFULLY.
+THE PROGRAM HAS EXCUTED SUCCESSFULLY.
