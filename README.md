@@ -37,15 +37,15 @@ excute the program.
 
 ## Output:
 
-## BELIEVERSCHURCH:
+### BELIEVERSCHURCH:
 ![believerschurch](believerschurch.JPG)
-## KINGSSCHOOL:
-![kingsschool](kingsschool.JPG)
-## SALTNPEPPER:
+### KINGSSCHOOL:
+![kingsschool](kingsschool.png)
+### SALTNPEPPER:
 ![saltnpepper](saltnpepper.JPG)
-## SATYAMMA TEMPLE:
+### SATYAMMA TEMPLE:
 ![satyammatemple](satyammatemple.JPG)
-## SRIRAMANENI VILLA:
+### SRIRAMANENI VILLA:
 ![sriramanenivilla](sriramanenivilla.JPG)
 
 ## Result:
