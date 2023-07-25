@@ -40,7 +40,7 @@ excute the program.
 ### BELIEVERSCHURCH:
 ![believerschurch](believerschurch.JPG)
 ### KINGSSCHOOL:
-![kingsschool](kingsschool.png)
+![kingsschool](kingsschool.JPG)
 ### SALTNPEPPER:
 ![saltnpepper](saltnpepper.JPG)
 ### SATYAMMA TEMPLE:
